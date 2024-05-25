@@ -1,4 +1,4 @@
-module github.com/praveenmahasena/sqlTool
+module github.com/praveenmahasena/sqltool
 
 go 1.22.0
 

@@ -1,6 +1,6 @@
-# sqlTool
+# sqltool
 
-This repository has the code for **sqlTool** which works as a [postgresql](https://www.postgresql.org/) database migrating tool.
+This repository has the code for **sqltool** which works as a [postgresql](https://www.postgresql.org/) database migrating tool.
 It's written using [Golang](https://go.dev/dl/).
 
 
@@ -31,4 +31,4 @@ dbname: #DB name
 sslmode:
 ```
 
-Then by giving the proper cli args **sqlTool up** or **sqlTool down** you could make the sql migration happen
+Then by giving the proper cli args **sqltool up** or **sqltool down** you could make the sql migration happen
